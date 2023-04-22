@@ -7,4 +7,29 @@ header {
     p {
         color: gray;
     }
+    nav {
+
+        background-color: black;
+    ul>li {
+        list-style-type: none;
+        display: flex;
+        display: inline;
+        color: white;
+        padding-right: 1em;
+        font-size: small;
+    }
+}
+}
+
+header {
+    nav {
+        ul {
+            padding-top: 2%;
+            background-color: black;
+            margin-bottom: 0;
+            display: flex;
+            justify-content: flex-end;
+            padding-right: 0.5em;
+        }
+    }
 }
