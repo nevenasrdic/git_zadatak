@@ -1,0 +1,12 @@
+header {
+  width: 80%;
+  height: 40%;
+  border: 1px black solid;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+header p {
+  color: gray;
+}
+
+/*# sourceMappingURL=style.css.map */
